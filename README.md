@@ -6,10 +6,10 @@
 [blog](https://qoosuperman.github.io/)
 
 ### Github Stats:
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gregmolnar" alt="gregmolnar" /></a></p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qoosuperman" alt="qoosuperman" /></a></p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gregmolnar&show_icons=true&locale=en" alt="gregmolnar" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qoosuperman&show_icons=true&locale=en" alt="qoosuperman" />
 </p>
 
 ### Languages and Tools:
