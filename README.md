@@ -2,6 +2,16 @@
 
 ### I am a Ruby on Rails Developer and CKA certified Kubernetes Administrator.
 
+### Connect with me:
+[blog](https://qoosuperman.github.io/)
+
+### Github Stats:
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gregmolnar" alt="gregmolnar" /></a></p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gregmolnar&show_icons=true&locale=en" alt="gregmolnar" />
+</p>
+
 ### Languages and Tools:
 <p align="left"> 
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
